@@ -2855,8 +2855,8 @@ min-document@^2.19.0:
     dom-walk "^0.1.0"
 
 minimatch@^3.0.0, minimatch@^3.0.2, minimatch@^3.0.3, minimatch@^3.0.4:
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.0.4.tgz#5166e286457f03306064be5497e8dbb0c3d32083"
+  version "3.1.5"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.1.5.tgz#580c88f8d5445f2bd6aa8f3cadefa0de79fbd69e"
   dependencies:
     brace-expansion "^1.1.7"
 
@@ -3376,7 +3376,7 @@ react-native-custom-datepicker-ios@^0.0.2:
   resolved "https://registry.yarnpkg.com/react-native-custom-datepicker-ios/-/react-native-custom-datepicker-ios-0.0.2.tgz#582276eeebfb80dbbd839e7faef50e0d15a7e114"
 
 react-native-wheel-datepicker@../:
-  version "2.1.10"
+  version "2.2.3"
   dependencies:
     moment "^2.19.1"
 
